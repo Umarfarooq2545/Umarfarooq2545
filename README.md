@@ -1,4 +1,4 @@
-![](assets/main.svg)
+![](Screenshot 2026-01-13 203037.png)
 
 I am a **QA Automation Engineer** with hands-on experience in **automated, manual, API, performance, and security testing** for fintech, healthcare, HR, and SaaS applications. I specialize in building reliable **JavaScript/TypeScript-based automation frameworks using Cypress**, validating APIs, and ensuring high-quality, scalable software delivery.
 
