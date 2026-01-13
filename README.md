@@ -1,7 +1,5 @@
 ![](assets/main.svg)
 
-## 👋 Hi, I’m Umar Farooq  
-
 I am a **QA Automation Engineer** with hands-on experience in **automated, manual, API, performance, and security testing** for fintech, healthcare, HR, and SaaS applications. I specialize in building reliable **JavaScript/TypeScript-based automation frameworks using Cypress**, validating APIs, and ensuring high-quality, scalable software delivery.
 
 Passionate about **test automation and quality engineering**, I work closely with software engineers and product teams to design test strategies, expand coverage across the **Testing Pyramid**, and improve release confidence. I also leverage **AI-assisted tools (Cursor/ChatGPT)** to accelerate test case design, automation workflows, and documentation.
